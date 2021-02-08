@@ -1,0 +1,14 @@
+version: '2.2'
+services: 
+    spring-boot-aws:
+        build:
+            context: ./
+            dockerfile: Dockerfile
+        image: spring-boot-aws-build
+        ports:
+            - 8080
+        networks: 
+            - network1
+networks: 
+    network1: 
+       

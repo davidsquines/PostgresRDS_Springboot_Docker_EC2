@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootAwsLambdaApplication<springboot-aws-lambda>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.csunARCS.springbootawslambda.SpringbootAwsLambdaApplication",
+            "projectName": "springboot-aws-lambda",
+            "args": ""
+        }
+    ]
+}

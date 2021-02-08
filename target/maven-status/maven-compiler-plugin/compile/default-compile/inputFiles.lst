@@ -1,0 +1,9 @@
+/Users/davidquines/Desktop/springboot-aws-lambda-real/src/main/java/com/csunARCS/springbootawslambda/UserHandler.java
+/Users/davidquines/Desktop/springboot-aws-lambda-real/src/main/java/com/csunARCS/springbootawslambda/UserController.java
+/Users/davidquines/Desktop/springboot-aws-lambda-real/src/main/java/com/csunARCS/springbootawslambda/exception/GlobalExceptionHandler.java
+/Users/davidquines/Desktop/springboot-aws-lambda-real/src/main/java/com/csunARCS/springbootawslambda/repository/UserRepository.java
+/Users/davidquines/Desktop/springboot-aws-lambda-real/src/main/java/com/csunARCS/springbootawslambda/domain/User.java
+/Users/davidquines/Desktop/springboot-aws-lambda-real/src/main/java/com/csunARCS/springbootawslambda/domain/UserResponseDetails.java
+/Users/davidquines/Desktop/springboot-aws-lambda-real/src/main/java/com/csunARCS/springbootawslambda/SpringbootAwsLambdaApplication.java
+/Users/davidquines/Desktop/springboot-aws-lambda-real/src/main/java/com/csunARCS/springbootawslambda/exception/ResourceNotFoundException.java
+/Users/davidquines/Desktop/springboot-aws-lambda-real/src/main/java/com/csunARCS/springbootawslambda/exception/ErrorDetails.java
